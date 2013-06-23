@@ -1,7 +1,7 @@
 === Very Simple Google Maps ===
 Contributors: MasterK
 Tags: maps, direction, contact, google
-Requires at least: 3.3
+Requires at least: 3.0
 Tested up to: 3.5.2
 Stable tag: 2.0
 License: GPLv2 or later
