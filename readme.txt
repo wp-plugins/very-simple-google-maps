@@ -16,7 +16,7 @@ Adding an embeded Google Map is a must for most websites. I have created a simpl
 * Simple to use with just a shortcode.
 * No admin settings to mess with. All features are set within the shortcode.
 * Can be styled with CSS
-* Optionally link your mak marked to your Google business listing directly so your business name is shown.
+* Optionally link your map marker to your Google business listing directly so your business name is shown.
 
 = Problems and Support =
 To get fastest response use the support page in the plugin area on WordPress.org
