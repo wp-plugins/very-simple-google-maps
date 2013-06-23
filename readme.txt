@@ -18,6 +18,10 @@ Adding an embeded Google Map is a must for most websites. I have created a simpl
 * Can be styled with CSS
 * Optionally link your map marker to your Google business listing directly so your business name is shown.
 
+= Usage =
+The basic shortcode to use is `[vsgmap address="address to display"]`
+See the FAQ for full usage options.
+
 = Problems and Support =
 To get fastest response use the support page in the plugin area on WordPress.org
 
