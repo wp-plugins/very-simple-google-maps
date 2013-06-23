@@ -10,8 +10,19 @@ License URI: http://www.gnu.org/licenses/gpl-2.0.html
 Contains a simple way to add an embedded Google Map to any page or post.
 
 == Description ==
+Adding an embeded Google Map is a must for most websites. I have created a simple way to add your map with jsut a simple shortcode. Despite the name I have added a few nice features that makes this plugin simple but powerful.
 
-Contains a simple way to add an embedded Google Map to any page or post. See the FAQ for usage info.
+= Features Included =
+* Simple to use with just a shortcode.
+* No admin settings to mess with. All features are set within the shortcode.
+* Can be styled with CSS
+* Optionally link your mak marked to your Google business listing directly so your business name is shown.
+
+= Problems and Support =
+To get fastest response use the support page in the plugin area on WordPress.org
+
+= Comments, Feedback and Request Features =
+To send any suggestions, comments, or feedback about this plugin send a [message to us](http://www.ciic.com/contact-us/). 
 
 == Installation ==
 
