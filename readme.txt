@@ -10,7 +10,7 @@ License URI: http://www.gnu.org/licenses/gpl-2.0.html
 Contains a simple way to add an embedded Google Map to any page or post.
 
 == Description ==
-Adding an embeded Google Map is a must for most websites. I have created a simple way to add your map with jsut a simple shortcode. Despite the name I have added a few nice features that makes this plugin simple but powerful.
+Adding an embeded Google Map is a must for most websites. I have created a simple way to add your map with just a simple shortcode. Despite the name I have added a few nice features that makes this plugin simple but powerful.
 
 = Features Included =
 * Simple to use with just a shortcode.
