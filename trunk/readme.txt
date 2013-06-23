@@ -11,7 +11,7 @@ Contains a simple way to add an embedded Google Map to any page or post.
 
 == Description ==
 
-Contains a simple way to add an embedded Google Map to any page or post. Use: [vsgmap address="address to display"] Other optional items: companycode="Google string cid for company maps listing" width="" height="" align="" info_window="A or near for off". Align Width and Height default to Left 480x300 unless entered.
+Contains a simple way to add an embedded Google Map to any page or post. See the FAQ for usage info.
 
 == Installation ==
 
@@ -52,14 +52,8 @@ The plugin warps the embed withing a div so this cam be achived with css.
 Simply add the following to your themes style.css
 .vsg-map iframe { border: 1px solid; }
 
-Of course you can changd that css any way you like.
-
-== Screenshots ==
-
-
+Of course you can change the css any way you like.
 
 == Changelog ==
 
 Version 2.0 is the first public and stable version.
-
-== Upgrade notice ==
