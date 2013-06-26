@@ -25,6 +25,9 @@ See the FAQ for full usage options.
 = Problems and Support =
 To get fastest response use the support page in the plugin area on WordPress.org
 
+= Please Review! =
+I would love some feedback. I will try and respond to any issues you might have.
+
 = Comments, Feedback and Request Features =
 To send any suggestions, comments, or feedback about this plugin send a [message to us](http://www.ciic.com/contact-us/). 
 
