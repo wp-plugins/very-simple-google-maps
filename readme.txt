@@ -3,7 +3,7 @@ Contributors: MasterK
 Tags: maps, direction, contact, google
 Requires at least: 3.0
 Tested up to: 3.6
-Stable tag: 2.1
+Stable tag: 2.2
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -19,7 +19,7 @@ Adding an embeded Google Map is a must for most websites. I have created a simpl
 * Optionally link your map marker to your Google business listing directly so your business name is shown.
 
 = Usage =
-The basic shortcode to use is `[vsgmap address="address to display"]`
+The basic shortcode to use is `[vsgmap address="street address to display"]`
 See the FAQ for full usage options.
 
 = Problems and Support =
@@ -43,11 +43,13 @@ To send any suggestions, comments, or feedback about this plugin send a [message
 
 The shortcode you need to use is this:
 
-`[vsgmap address="address to display"]`
+`[vsgmap address="street address to display"]`
 
 2. What are the options for use with the shortcode?
 
 The following options are available:
+address="street address to display" (Enter the street address for the location to be shown. NOT a Google Map URL)
+
 align="left" (default is left. Valid are left, right, center)
 
 width="400" (default is 400. Any pixel dimension is valid)
@@ -73,5 +75,7 @@ Simply add the following to your themes style.css
 Of course you can change the css any way you like.
 
 == Changelog ==
+
+Version 2.2 adds the word "street" to the description so usage is more clear.
 
 Version 2.0 is the first public and stable version.
