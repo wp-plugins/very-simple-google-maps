@@ -70,7 +70,7 @@ Find your company listing on a Google Maps result page and click the link to ema
 
 The plugin warps the embed withing a div so this cam be achived with css.
 Simply add the following to your themes style.css
-.vsg-map iframe { border: 1px solid; }
+`.vsg-map iframe { border: 1px solid; }`
 
 Of course you can change the css any way you like.
 
