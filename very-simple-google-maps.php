@@ -2,7 +2,7 @@
 /*
 Plugin Name: Very Simple Google Maps
 Description: Contains a simple way to add an embedded Google Map to any page or post. Use: [vsgmap address="street address to display"] Other optional items: companycode="Google string cid for company maps listing" width="" height="" align="" info_window="A or near for off". Align Width and Height default to Left 480x300 unless entered.
-Version: 2.2
+Version: 2.3
 Author: Michael Aronoff
 License: GPL2
 */

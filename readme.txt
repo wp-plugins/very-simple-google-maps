@@ -2,8 +2,8 @@
 Contributors: MasterK
 Tags: maps, direction, contact, google
 Requires at least: 3.0
-Tested up to: 3.6
-Stable tag: 2.2
+Tested up to: 3.7.1
+Stable tag: 2.3
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -76,6 +76,11 @@ Of course you can change the css any way you like.
 
 == Changelog ==
 
-Version 2.2 adds the word "street" to the description so usage is more clear.
+= 2.0 =
+First public and stable version.
 
-Version 2.0 is the first public and stable version.
+= 2.2 =
+Add the word "street" to the description so usage is more clear.
+
+= 2.3 =
+Update for WP 3.7
