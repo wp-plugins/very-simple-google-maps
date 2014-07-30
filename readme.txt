@@ -87,3 +87,6 @@ Update for WP 3.8.1
 
 = 2.4 =
 Update for WP 3.9
+
+= 2.5 =
+Added fix to center location point in the map as suggested by user SiNNeD.
