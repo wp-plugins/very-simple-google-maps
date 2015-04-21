@@ -2,8 +2,8 @@
 Contributors: MasterK
 Tags: maps, direction, contact, google
 Requires at least: 3.3
-Tested up to: 4.1.1
-Stable tag: 2.5
+Tested up to: 4.2
+Stable tag: 2.6
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -90,3 +90,6 @@ Update for WP 3.9
 
 = 2.5 =
 Added fix to center location point in the map as suggested by user SiNNeD.
+
+= 2.6 =
+Update for WP 4.2
