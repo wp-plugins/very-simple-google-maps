@@ -1,9 +1,9 @@
 === Very Simple Google Maps ===
-Contributors: MasterK
+Contributors: Michael Aronoff
 Tags: maps, direction, contact, google
 Requires at least: 3.3
-Tested up to: 4.2.3
-Stable tag: 2.6
+Tested up to: 4.3
+Stable tag: 2.7
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -93,3 +93,6 @@ Added fix to center location point in the map as suggested by user SiNNeD.
 
 = 2.6 =
 Update for WP 4.2
+
+= 2.7 =
+Update for WP 4.3
